@@ -1,0 +1,45 @@
+
+body{
+ background-color: black;
+ margin: 0%;
+ padding: 0%;
+}
+*{
+   padding:0%;
+}
+   img{
+    width: 500px;
+    left: 10px;
+   }
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 0px;
+    padding-right: 15px;
+}
+p{
+    color: aliceblue;
+    text-align: center;
+    padding: 0px;
+} 
+li{
+    list-style: none;
+    display: inline;
+    margin: 20px;
+}
+.nav h1{
+    
+    color: aliceblue;
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    padding-top: 170px;
+}
+.nav p{
+    color: aliceblue;
+    font-size: 20px;
+    padding-top: 0px;
+    
+}
