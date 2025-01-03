@@ -22,12 +22,17 @@ body{
 p{
     color: aliceblue;
     text-align: center;
-    padding: 0px;
+    margin-top: -40px;
+    size: 13px;
 } 
 li{
     list-style: none;
     display: inline;
     margin: 20px;
+}
+.image{
+    width: 100px;
+
 }
 .nav h1{
     
@@ -37,9 +42,19 @@ li{
     text-align: center;
     padding-top: 170px;
 }
-.nav p{
-    color: aliceblue;
-    font-size: 20px;
-    padding-top: 0px;
-    
+footer{
+    position: fixed;
+    height: 100px;
+    width: 100%;
+    bottom: 0;
+    background-color: rgb(44, 41, 42);
+}
+
+.instagram{
+    width: 60px;
+    height: 60px;
+}
+.facebook{
+    width: 60px;
+    height: 60px;
 }
